@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.myapp.message"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "message",
+    "packageName": "com.myapp.message",
+    "packageFolder": "com/myapp/message",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjYzYTkxZDM1MGYxMDYxMDk4OGRkMTcwYjZhMWMxOTVlNmVmODU4NDdlNzBhNDc2N2E1NjcyMmNlZTM0YjE5YjVhN2UyYmI0ZjllODJiYWE4YmEwNDE3YjFkNzE3NGYxZDRkZDM1OWU1YTRmMDg0YzIwM2Y3OGY1MTRmODZjMDI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1610395816790,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
